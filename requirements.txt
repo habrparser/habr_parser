@@ -1,0 +1,7 @@
+Django
+Pillow
+djangorestframework
+python-decouple
+drf-yasg
+bs4
+requests    

@@ -1,0 +1,1 @@
+web: gunicorn habr_parser.wsgi
